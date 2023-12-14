@@ -1,3 +1,5 @@
 am trying to learn the devops
 
 verifying with 2nd line
+
+code verifying in Remote Repository by edit option
